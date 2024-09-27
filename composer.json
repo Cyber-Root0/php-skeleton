@@ -1,0 +1,18 @@
+{
+    "name": "cr0/php-skeleton",
+    "description": "Contract skeleton in PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CR0\\Skeleton\\": "Api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno Alves",
+            "email": "boteistem@gmail.com"
+        }
+    ],
+    "require": {}
+}
